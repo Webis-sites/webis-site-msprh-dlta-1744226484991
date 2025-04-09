@@ -1,0 +1,7 @@
+
+    # robots.txt for מספרה דלתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://מספרה-דלתא.com/sitemap.xml
