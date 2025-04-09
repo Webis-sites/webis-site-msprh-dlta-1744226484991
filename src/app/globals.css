@@ -9,7 +9,22 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #588C7E;
       --secondary-color: #ffffff;
-    }
+    
+  --neumorphic-light: #ffffff;
+  --neumorphic-shadow: rgba(163, 177, 198, 0.5);
+  --neumorphic-shadow-dark: rgba(163, 177, 198, 0.8);
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.5);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  --card-radius: 1rem;
+  --transition-speed: 0.3s;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+}
 
     html {
       scroll-behavior: smooth;
