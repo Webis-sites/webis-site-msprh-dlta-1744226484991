@@ -1,11 +1,24 @@
 {
-  "timestamp": "2025-04-09T19:21:48.578Z",
+  "timestamp": "2025-04-09T19:22:34.142Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 2,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout wrapper with RTL support for Hebrew language, including header, footer, and metadata"
+    },
+    {
+      "name": "Header",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Responsive header with logo, navigation menu, and booking CTA button"
+    }
+  ],
   "repoName": "webis-site-msprh-dlta-1744226484991"
 }
