@@ -24,6 +24,10 @@
   --font-size-2xl: 1.5rem;
   --font-size-3xl: 1.875rem;
   --font-size-4xl: 2.25rem;
+
+  --neumorphic-shadow-inset: inset 2px 2px 5px rgba(0,0,0,0.2), inset -2px -2px 5px rgba(255,255,255,0.7);
+  --glass-background: rgba(255,255,255,0.1);
+  --glass-blur: 8px;
 }
 
     html {
