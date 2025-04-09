@@ -1,8 +1,11 @@
 {
-  "projectName": "מספרה-דלתא-6485",
-  "businessName": "מספרה דלתא",
-  "created": "2025-04-09T19:21:25.228Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T19:21:48.578Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-msprh-dlta-1744226484991"
 }
