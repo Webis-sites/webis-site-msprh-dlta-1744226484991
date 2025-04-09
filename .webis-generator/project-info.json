@@ -1,8 +1,36 @@
 {
   "projectName": "מספרה-דלתא-6485",
   "businessName": "מספרה דלתא",
-  "created": "2025-04-09T19:21:25.228Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מספרה מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-09T19:21:48.582Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-msprh-dlta-1744226484991",
+  "formData": {
+    "businessName": "מספרה דלתא",
+    "businessType": "מספרה",
+    "industry": "בידור",
+    "businessSize": "small",
+    "description": "אנחנו מספרה מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#588C7E",
+    "secondaryColor": "#ffffff",
+    "typographyStyle": "modern",
+    "animationPreference": "moderate",
+    "headline": "מספרה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": true,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": false,
+    "metaDescription": "מספרה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מספרה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
